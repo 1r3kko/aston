@@ -4,6 +4,14 @@
 # Log file
 *.log
 
+#Maven
+target
+build
+
+# IntelliJ
+.idea
+*.iml
+
 # BlueJ files
 *.ctxt
 
